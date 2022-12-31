@@ -1,6 +1,6 @@
 package ir.porteghali.java;
 
-public class E018_Variables {
+public class E18_Variables {
     public void Start(){
         System.out.println("Variables");
         int a = 22;
